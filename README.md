@@ -10,6 +10,7 @@ From 1934 to 1963, San Francisco was infamous for housing some of the world's mo
 
 This dataset is taken from Kaggle which contains incidents derived from SFPD Crime Incident Reporting system.The dataset was provided by SF OpenData.
 ● The data ranges from : 1/1/2003­5/13/2015
+
 ● Train dataset size : 878050
 ● Test dataset size : 884263
 ● Crime Categories : 39
